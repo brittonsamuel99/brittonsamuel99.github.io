@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       <div className="grid h-screen place-items-center bg-purple-500">
         <div>
-          \/\/ TODO: Make a website
+          TODO: Make a website
         </div>
       </div>
 
